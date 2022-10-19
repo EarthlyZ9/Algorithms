@@ -1,8 +1,13 @@
 # MacOS
 .DS_Store
 
-# VS Code
+# IDE & Editor
 .vscode
+.idea
+
+#Cmake
+*.txt
+cmake-build-debug
 
 # Xcode
 *.xcodeproj
